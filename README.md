@@ -125,7 +125,7 @@ Want to improve this project? Fork the repo, make your changes, and create a pul
 
 ## 📞 Contact
 For any queries, feel free to reach out:  
-📧 **Email:** sree.mengji@gmail.com.com  
+📧 **Email:** sree.mengji@gmail.com 
 🔗 **GitHub:** [Your Profile](https://github.com/sreeharshamengji)  
 
 ---
