@@ -107,10 +107,8 @@ Note: I have made this project for my college, named Guru Nanak Institutions, Hy
 
 ---
 
-## 📜 License
-This project is licensed under the **MIT License**.  
 
----
+
 
 ## 📩 Support
 For support and inquiries, contact the **development team**. 🤝
